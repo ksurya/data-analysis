@@ -1,0 +1,32 @@
+1. Title: Balloon databases
+
+2. Source: Michael Pazzani (pazzani@ics.uci.edu)
+
+3. Past usage
+   Pazzani, M. (1991). The influence of prior knowledge on concept acquisition: 
+   Experimental and computational results. Journal of Experimental Psychology: 
+   Learning, Memory & Cognition, 17, 3,  416-432.
+
+4. Relevant information:
+   There are four data sets representing different conditions of an experiment.
+   All have the same attributes.
+   a. adult-stretch.data  Inflated is true if age=adult or act=stretch
+   b. adult+stretch.data  Inflated is true if age=adult and act=stretch
+   c. yellow-small.data   Inflated is true if (color=yellow and size = small)
+   d. yellow-small+adult-stretch.data  Inflated is true if 
+            (color=yellow and size = small) or (age=adult and act=stretch)
+ 
+5. Number of attributes: 4 (changed KSD 4/22/04) 5 (changed KFM 5/4/98)
+
+6. Number of Instances: 16
+
+7. Attribute Information: (Classes Inflated T or F)
+%%Removed KSD 4/22/04   Instance-numb     a unique number for each instance (added KFM 5/4/98)
+   Color             yellow=0, purple=1
+   size              large=2, small=3
+   act               stretch=4, dip=5
+   age               adult=6, child=7
+   inflated          T, F
+
+8. Missing Values: None
+   
