@@ -1,0 +1,5 @@
+virtualenv
+sqlalchemy
+simplejson
+pymysql
+numpy
