@@ -1,6 +1,9 @@
 Experiments
 ===========
 
+Influence of operations on word vectors on the performance of sentence classification. 2019
+  - https://github.com/ksurya/exp/tree/master/sentiment
+
 Correlation of named entities and coreferences to F1/EM performance of QA systems. 2019
   - https://github.com/ksurya/exp/tree/master/question_answering/squad
   - https://github.com/ksurya/exp/tree/master/question_answering/coqa
