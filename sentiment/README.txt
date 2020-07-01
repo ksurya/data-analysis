@@ -1,9 +1,17 @@
 Sentiment of product reviews on Amazon, IMDB and Yelp
 ========================================
 
-TODO: learn the embeddings on this dataset using word2vec method, and finetune (or simply use as features) on a task on the same dataset
+Motivations:
+===========
 
-Updates
+- How operations on word vectors influence the performance of sentence classification tasks?
+- Can we tease out context from contextual embeddings vectors such as BERT/ELMo?
+
+TODO:
+====
+
+
+Experiment
 =======
 
 - Performance on learning multiple embeddings is analyzed
